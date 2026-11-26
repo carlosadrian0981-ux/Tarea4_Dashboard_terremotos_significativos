@@ -10,7 +10,7 @@ El proyecto incluye un dashboard interactivo desarrollado con Python y Streamlit
 
 ## Captura del dashboard
 
-![Dashboard de análisis de terremotos](images/dashboard_1.png)
+![Dashboard de análisis de terremotos](Images/dashboard_1.png)
 
 ## Dashboard publicado
 
