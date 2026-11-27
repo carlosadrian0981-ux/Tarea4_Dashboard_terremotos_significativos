@@ -63,8 +63,11 @@ Para ejecutar el proyecto en un computador, se deben seguir estos pasos:
 
 ## Información académica
 **Estudiante:** Carlos Adrian Jaramillo Vega
+
 **Curso:** Programación para el Análisis de Datos
+
 **Universidad:** Universidad Nacional Abierta y a Distancia (UNAD)
+
 **Fecha:** 26 de noviembre de 2026
 
 
