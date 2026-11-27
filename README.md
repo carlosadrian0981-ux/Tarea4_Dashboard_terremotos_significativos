@@ -15,7 +15,7 @@ El proyecto incluye un dashboard interactivo desarrollado con Python y Streamlit
 ## Dashboard publicado
 
 [https://github.com/carlosadrian0981-ux/Terremotos_Dashboard.git]
-[Consultar el dashboard interactivo en Streamlit](PEGAR_AQUI_LA_URL_PUBLICA)
+[Consultar el dashboard interactivo en Streamlit](https://tarea4dashboardterremotossignificativos.streamlit.app/)
 
 ## Hallazgos principales del análisis
 
